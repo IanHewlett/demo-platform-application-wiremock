@@ -50,3 +50,9 @@ probeSettings:
   failureThreshold: 2
 
 namespace: wiremock
+
+routing:
+  enabled: false
+
+opa:
+  enabled: false
